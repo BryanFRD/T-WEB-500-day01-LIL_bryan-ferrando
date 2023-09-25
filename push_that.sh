@@ -20,5 +20,5 @@ if [ $? -eq 0 ]; then
   fi
 else
   echo "Commit failed. Please check your changes and try again."
-  exit 1a
+  exit 1
 fi
